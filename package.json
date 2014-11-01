@@ -1,0 +1,23 @@
+{
+  "name": "kata-tennis-js-atbdx2014",
+  "description": "Kata du tennis - Agile Tour Bordeaux 2014",
+  "version": "0.0.1",
+  "private": true,
+  "preferGlobal": true,
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-test": "^0.12.1",
+    "mocha": "^1.21.4"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "todo"
+  }
+}
